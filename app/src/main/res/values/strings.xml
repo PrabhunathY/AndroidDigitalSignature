@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DigitalSignature</string>
+
+
+    <string name="title_activity_your_sign">YourSignActivity</string>
+
+    <!-- Error -->
+    <string name="error">Error</string>
+    <string name="err_name">Enter name</string>
+    <string name="err_email">Enter a valid email</string>
+</resources>

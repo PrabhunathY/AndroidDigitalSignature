@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/d9b367fe6199cc908c3eeffedabaaead75debf21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_bc2997cdd662b98625aeaa93369fcbf1080626f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_91dc5a131c944ffd934abc6fce5ba389bed88250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/ccc42d3edc7b7d5a09442101b788fdc4a07af69c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_e06988abc99cc22fbe4f07101bc584955c2b8206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/0e31203e339977ce1a8facd168d6a50debd89370/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_3cfb3e7c25e9eefac84cf30aa79e1ecf9259a4a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/eb3f76ad9540b1ff3dc168aeb1a4379e21aeb2d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_280353e13a9b93eb2698ee1539d1fde1053ec5fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/f85a170f8a6f04b5b4882d3006af0b5345c67b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_3e7e419575c6e3692b925acd6c52dc5f336c3894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/ba255ae620453d1ad6c8ee322412562417e6637e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_fbdbba05e59bdad3c569bd7d787fcb2d506ab547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/cc12907bada73ceda5fab39c55fb281b0ac03d1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_1c90ee6e9321440e18040904b210888394d3d584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/5d1ac709d90f5c6d80af880083c158db8eab3e2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_0d092d7e455acc46a7f8422558a58d83325163d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/80c41f6aff0ee11045ef514eceb25d2321ed91d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_bb83ab7c466ae3f45c15e26a632bdcb91acff1c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_6c6ecf21d5af3780117037314dd3dc14ba9c8e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/prabhunathyadav/.android/build-cache/922cd3f880e80a80d07570b6bd3d260c787f027b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/prabhunathyadav/AndroidStudioProjects/DigitalSignature/app/build/intermediates/pre-dexed/debug/classes_b2673a61419e6f6f0d137a076ee2773dba0046a7.jar" />
+    </item>
+
+</items>
